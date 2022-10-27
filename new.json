@@ -1,0 +1,9 @@
+{	
+	"name": "NatalY",
+	"Surname": "Levonevskaya",
+	"Age": 38,
+	"Pets": { "Quantity": 1,
+		"name": "Kira"},
+	"Salary": 1000
+}
+	
