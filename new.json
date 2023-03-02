@@ -1,9 +1,9 @@
 {	
-	"name": "NatalY",
-	"Surname": "Levonevskaya",
-	"Age": 38,
-	"Pets": { "Quantity": 1,
-		"name": "Kira"},
+	"person-name": "Natalia",
+	"person-age": 38,
+	"Pets": { "Name": "Kira",
+		  "Age": 10
+		}
 	"Salary": 1000
 }
 	
